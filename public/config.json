@@ -4,7 +4,7 @@
       "id": 0,
       "title": "Object One",
       "scene": "/models/one.glb",
-      "coverImage": "/img/vase.png",
+      "coverImage": "/img/title_ONE.png",
       "location": "Location One",
       "infoPoints": [
         {
@@ -55,7 +55,7 @@
       "id": 1,
       "title": "Object Two",
       "scene": "/models/two.glb",
-      "coverImage": "/pwa/img/nandi.png",
+      "coverImage": "/img/title_TWO.png",
       "location": "Location Two",
       "infoPoints": [
         {
@@ -103,7 +103,7 @@
       "id": 0,
       "title": "Objekt Eins",
       "scene": "/models/one.glb",
-      "coverImage": "/img/vase.png",
+      "coverImage": "/img/title_ONE.png",
       "location": "Ortsangabe Eins",
       "infoPoints": [
         {
@@ -154,7 +154,7 @@
       "id": 1,
       "title": "Objekt Zwei",
       "scene": "/models/two.glb",
-      "coverImage": "/img/nandi.png",
+      "coverImage": "/img/title_TWO.png",
       "location": "Ortsangabe Zwei",
       "infoPoints": [
         {
